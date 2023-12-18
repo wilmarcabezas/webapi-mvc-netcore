@@ -53,4 +53,3 @@ app.MapControllers();
 app.Run();
 
 
-//dotnet-ef dbcontext scaffold "server=198.49.75.133; Database=apiwebnet;user=sa;Pwd=Asus8426*;Trust Server Certificate=true" Microsoft.EntityFrameworkCore.SqlServer -o Models
